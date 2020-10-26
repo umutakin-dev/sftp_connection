@@ -1037,15 +1037,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\normie\\.nuget\\packages\\": {}
+    "C:\\Users\\umut.akin\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "sftp_connection",
       "projectName": "sftp_connection",
-      "projectPath": "C:\\norm-rpa\\projects\\sftp_connection\\.local",
-      "packagesPath": "C:\\Users\\normie\\.nuget\\packages\\",
-      "outputPath": "C:\\norm-rpa\\projects\\sftp_connection\\.local"
+      "projectPath": "C:\\Users\\umut.akin\\umutakin\\workspace\\uipath\\sftp_connection\\.local",
+      "packagesPath": "C:\\Users\\umut.akin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\umut.akin\\umutakin\\workspace\\uipath\\sftp_connection\\.local"
     },
     "frameworks": {
       "net461": {
